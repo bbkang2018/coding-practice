@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="471d5304-75ba-42a4-b7a0-5e4c757752b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvtwPI5iocVeyq3ylI2PBL8bVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CompoundRunConfigurationType" />
+        <option value="PythonConfigurationType" />
+        <option value="tests" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.member">
+    <configuration type="PythonConfigurationType" factoryName="Python">
+      <module name="jeju6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="member" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jeju6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../jeju4/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/member.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.member" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Python" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Python" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="471d5304-75ba-42a4-b7a0-5e4c757752b2" name="Default Changelist" comment="" />
+      <created>1585731633351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585731633351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="28" key="#app13" timestamp="1586174277746">
+      <screen x="0" y="23" width="1280" height="743" />
+    </state>
+    <state x="349" y="28" key="#app13/0.23.1280.743@0.23.1280.743" timestamp="1586174277746" />
+    <state x="104" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586485059310">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="104" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.740@0.23.1280.740" timestamp="1586485059310" />
+    <state x="104" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.743@0.23.1280.743" timestamp="1586413563166" />
+    <state x="104" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.752@0.23.1280.752" timestamp="1585884847881" />
+    <state x="104" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.753@0.23.1280.753" timestamp="1585791715097" />
+    <state x="394" y="171" key="EnvironmentVariablesDialog" timestamp="1586228296862">
+      <screen x="0" y="23" width="1280" height="743" />
+    </state>
+    <state x="394" y="171" key="EnvironmentVariablesDialog/0.23.1280.743@0.23.1280.743" timestamp="1586228296862" />
+    <state width="846" height="172" key="GridCell.Tab.0.bottom" timestamp="1586488739949">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="846" height="172" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1586488739949" />
+    <state width="846" height="173" key="GridCell.Tab.0.bottom/0.23.1280.743@0.23.1280.743" timestamp="1586416541164" />
+    <state width="1239" height="176" key="GridCell.Tab.0.bottom/0.23.1280.752@0.23.1280.752" timestamp="1585913731351" />
+    <state width="1239" height="176" key="GridCell.Tab.0.bottom/0.23.1280.753@0.23.1280.753" timestamp="1585793591616" />
+    <state width="846" height="172" key="GridCell.Tab.0.center" timestamp="1586488739948">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="846" height="172" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1586488739948" />
+    <state width="846" height="173" key="GridCell.Tab.0.center/0.23.1280.743@0.23.1280.743" timestamp="1586416541163" />
+    <state width="1239" height="176" key="GridCell.Tab.0.center/0.23.1280.752@0.23.1280.752" timestamp="1585913731349" />
+    <state width="1239" height="176" key="GridCell.Tab.0.center/0.23.1280.753@0.23.1280.753" timestamp="1585793591613" />
+    <state width="846" height="172" key="GridCell.Tab.0.left" timestamp="1586488739947">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="846" height="172" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1586488739947" />
+    <state width="846" height="173" key="GridCell.Tab.0.left/0.23.1280.743@0.23.1280.743" timestamp="1586416541162" />
+    <state width="1239" height="176" key="GridCell.Tab.0.left/0.23.1280.752@0.23.1280.752" timestamp="1585913731347" />
+    <state width="1239" height="176" key="GridCell.Tab.0.left/0.23.1280.753@0.23.1280.753" timestamp="1585793591613" />
+    <state width="846" height="172" key="GridCell.Tab.0.right" timestamp="1586488739948">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="846" height="172" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1586488739948" />
+    <state width="846" height="173" key="GridCell.Tab.0.right/0.23.1280.743@0.23.1280.743" timestamp="1586416541163" />
+    <state width="1239" height="176" key="GridCell.Tab.0.right/0.23.1280.752@0.23.1280.752" timestamp="1585913731350" />
+    <state width="1239" height="176" key="GridCell.Tab.0.right/0.23.1280.753@0.23.1280.753" timestamp="1585793591614" />
+    <state x="149" y="38" key="SettingsEditor" timestamp="1585734731300">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="149" y="38" key="SettingsEditor/0.23.1280.752@0.23.1280.752" timestamp="1585734731300" />
+    <state x="319" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586485025837">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="319" y="228" key="com.intellij.ide.util.TipDialog/0.23.1280.740@0.23.1280.740" timestamp="1586485025837" />
+    <state x="319" y="229" key="com.intellij.ide.util.TipDialog/0.23.1280.743@0.23.1280.743" timestamp="1586410597134" />
+    <state x="319" y="231" key="com.intellij.ide.util.TipDialog/0.23.1280.752@0.23.1280.752" timestamp="1585881110095" />
+  </component>
+</project>
